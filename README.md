@@ -1,25 +1,4 @@
-# calculator
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # Calculator-2
+
+Project developed for educational purposes of practical classroom application of components in vue.
+Have a look at the final result -> [VueCalculator](https://luismgil.github.io/Calculator-2)
